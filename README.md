@@ -58,7 +58,7 @@ Advanced-Object-Detection/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Advanced-Object-Detection.git
+git clone (https://github.com/muneebazahir/Advanced-Real-Time-Object-Detection-System-using-YOLOv8)
 
 cd Advanced-Object-Detection
 ```
